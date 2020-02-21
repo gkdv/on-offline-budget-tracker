@@ -1,9 +1,8 @@
 const FILES_TO_CACHE = [
     "/",
     "/index.html",
-    "/dist/minified.css",
-    "/dist/indb.js",
-    "/assets/images/icons/icons8-budget-64.png",
+    "/dist/mini.css",
+    "/dist/indb.js"
 ];
 
 const CACHE_NAME = "static-cache-v2";
